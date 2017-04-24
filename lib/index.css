@@ -1,0 +1,26 @@
+.toast-msg {
+  opacity: 0;
+  visibility: hidden;
+  display: inline-block;
+  padding: 30px 34px;
+  color: #fff;
+  font-size: 28px;
+  border-radius: 16px;
+  background-color: rgba(0, 0, 0, .75);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 100;
+  transition: opacity 200ms ease, visibility 200ms ease;
+}
+
+.toast-msg-show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.toast-msg-hide {
+  opacity: 0;
+  visibility: hidden;
+}

@@ -1,0 +1,18 @@
+{
+  "name": "in-toast",
+  "version": "1.0.0",
+  "description": "in toast",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TNT-Likely/in-toast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TNT-Likely/in-toast/issues"
+  },
+  "author": "",
+  "license": "ISC"
+}

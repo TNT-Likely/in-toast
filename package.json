@@ -1,6 +1,6 @@
 {
   "name": "in-toast",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "in toast",
   "main": "lib/index.js",
   "scripts": {
